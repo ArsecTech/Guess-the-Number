@@ -2,7 +2,7 @@
 
 
  <p align="center">
-  <a target='_blank'><img src='https://lh3.googleusercontent.com/proxy/vuO9j0OGxN3itivm7pbmPOSAecmJOaxOPaoNXL32pSV9PCel_VKuW-LWUP93VUq5Qy_e89Tp4Iemx6qtut-bQAzsc62gYOfHsvPNDn8WRXYNf9e4AIBAuZp9zKROdQkG0VOMCkSK' border='0'/></a>  <h1    align="center">Guess-the-Number</h1>
+  <a target='_blank'><img src='https://media.proprofs.com/images/QM/user_images/2290773/1531093844.jpeg' border='0'/></a>  <h1    align="center">Guess-the-Number</h1>
  </p>
  
  
